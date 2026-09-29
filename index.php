@@ -11,7 +11,7 @@ $waktu = date('d-m-Y H:i:s');
 </head>
 <body>
     <h1><?= htmlspecialchars($namaAplikasi) ?></h1>
-    <p>Praktikum Git membantu mengelola perubahan proyek.</p>
+    <p>Praktikum RPL menggunakan Git untuk version control.</p>
     <p>Aplikasi praktikum Rekayasa Perangkat Lunak - Modul 2 Git..</p>
     <p>Waktu server: <?= htmlspecialchars($waktu) ?></p>
 </body>
